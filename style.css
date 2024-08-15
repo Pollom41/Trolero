@@ -1,0 +1,51 @@
+.foto{
+    width: 350.1px;
+    border-radius: 50.1%;
+}
+body{
+    margin: 0;
+    text-align: center; 
+}
+#nombre{
+    font-size: 40px;
+    font-weight: 301;
+    color: #00ff33;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+    color: #00ff33;
+}
+#fonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnndo{
+    bottom: 0;
+    background: linear-gradient(#02350c 10%, #570349 100% );
+}
+.Menu{
+    list-style: none;
+    position:absolute;
+    top: 10px;
+    left: 30px;
+    cursor: pointer;
+}
+.link{
+    float: left;
+    padding: 5px 9px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+.link:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+.linea{
+    height: 6px;
+    background-color: #02350c;
+    width: 70px;
+    margin: 8px auto;
+}
+#Contacto{
+    background: #00ff33;
+}
